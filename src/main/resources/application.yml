@@ -1,9 +1,0 @@
-eureka:
-   client:
-      serviceUrl:
-         defaultZone: https://eureka-dashboard.herokuapp.com/eureka/
-   instance:
-      prefer-ip-address: true
-      hostName: eureka-dashboard.herokuapp.com
-
-    
